@@ -1,0 +1,75 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "domains_sbcapstones_com_email": {
+            "value": null
+        },
+        "domains_sbcapstones_com_nameFirst": {
+            "value": null
+        },
+        "domains_sbcapstones_com_nameLast": {
+            "value": null
+        },
+        "domains_sbcapstones_com_phone": {
+            "value": null
+        },
+        "domains_sbcapstones_com_email_1": {
+            "value": null
+        },
+        "domains_sbcapstones_com_nameFirst_1": {
+            "value": null
+        },
+        "domains_sbcapstones_com_nameLast_1": {
+            "value": null
+        },
+        "domains_sbcapstones_com_phone_1": {
+            "value": null
+        },
+        "domains_sbcapstones_com_email_2": {
+            "value": null
+        },
+        "domains_sbcapstones_com_nameFirst_2": {
+            "value": null
+        },
+        "domains_sbcapstones_com_nameLast_2": {
+            "value": null
+        },
+        "domains_sbcapstones_com_phone_2": {
+            "value": null
+        },
+        "domains_sbcapstones_com_email_3": {
+            "value": null
+        },
+        "domains_sbcapstones_com_nameFirst_3": {
+            "value": null
+        },
+        "domains_sbcapstones_com_nameLast_3": {
+            "value": null
+        },
+        "domains_sbcapstones_com_phone_3": {
+            "value": null
+        },
+        "dnszones_sbcapstones_com_name": {
+            "value": null
+        },
+        "virtualMachines_SubekCapstone_name": {
+            "value": null
+        },
+        "domains_sbcapstones_com_name": {
+            "value": null
+        },
+        "networkInterfaces_subekcapstone972_name": {
+            "value": null
+        },
+        "publicIPAddresses_SubekCapstone_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_SubekCapstone_vnet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_SubekCapstone_nsg_name": {
+            "value": null
+        }
+    }
+}
